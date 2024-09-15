@@ -15,7 +15,7 @@ Script. Both Platforms [PC & Android]
 💠Press "Enter"
 
 <p align="center">
-<img src='imagel.png' style="width:500px;height:400px;">
+<img src='imageI.png' style="width:500px;height:400px;">
 </p>
 
 # Copy Code & Enter

@@ -1,4 +1,4 @@
-# TG Bot Mining: The Banana Game Auto Click Script
+# The Banana Game Auto Click Script
 
 💠The script is randomly auto-clicking the Banana App
 
@@ -6,23 +6,25 @@
 
 🟩 Register: https://t.me/OfficialBananaBot/banana?startapp=referral=P2E0J5
 
-Script. Both Platforms [PC & Android]
+💠Script. Both Platforms [PC & Android] 
+
 💠Right-click on the app
+
 💠Select "Inspect"
+
 💠Switch to the "Console" tab.
+
 💠Select "Banana..."
+
 💠Enter the code below or copy
-💠Press "Enter"
+
+💠Press `Enter`
 
 <p align="center">
 <img src='imageI.png' style="width:400px;height:600px;">
 </p>
 
-<p align="center">
-<video src='video.mp4' width='900'>
-</p>
-
-# Copy Code & Enter
+# Copy Code & Enter `Inspect` `Console`
 
 ```bash
 

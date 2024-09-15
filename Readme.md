@@ -18,6 +18,10 @@ Script. Both Platforms [PC & Android]
 <img src='imageI.png' style="width:400px;height:600px;">
 </p>
 
+<p align="center">
+<video src='video.mp4' width='900'>
+</p>
+
 # Copy Code & Enter
 
 ```bash
